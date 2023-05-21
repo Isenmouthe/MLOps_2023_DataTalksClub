@@ -1,0 +1,7 @@
+# Ignore files larger than 100MB
+*.iso
+*.tar
+*.gz
+*.rar
+*.zip
+*.parquet
